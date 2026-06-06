@@ -42,15 +42,13 @@
 ### IoT & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -68,14 +66,14 @@
 > A platform to reduce educational inequality by allowing users to donate and request learning materials.
 
 **Key achievements:**
-- 🏗️ Architected full-stack workflow: JSP → Java controllers → business logic → MySQL
-- ⚡ Improved API response time by **30%** through query optimization
-- 🧪 Conducted unit tests, integration tests, and edge case validation
-- 🐛 Debugged critical backend issues across all components
+-  Architected full-stack workflow: JSP → Java controllers → business logic → MySQL
+-  Improved API response time by **30%** through query optimization
+-  Conducted unit tests, integration tests, and edge case validation
+-  Debugged critical backend issues across all components
 
 ---
 
-### 🚗 Tollgate Payment & Access Control System
+###  Tollgate Payment & Access Control System
 *Hardware & System Developer | Sep – Nov 2024*
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Shreyaz-Bijukchhe/Tollgate-System)
@@ -85,25 +83,11 @@
 > Real-time vehicle detection and automated toll payment system using ESP32 and ultrasonic sensors.
 
 **Key achievements:**
-- 🛠️ Programmed ESP32 for real-time vehicle detection with ultrasonic sensors
-- 💳 Integrated payment card reader with transaction validation and motorized gate control
-- 🔔 Implemented security features: buzzer alarm on unauthorized breaches
+-  Programmed ESP32 for real-time vehicle detection with ultrasonic sensors
+-  Integrated payment card reader with transaction validation and motorized gate control
+-  Implemented security features: buzzer alarm on unauthorized breaches
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyaz-Bijukchhe&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaz-Bijukchhe&layout=compact&theme=tokyonight" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyaz-Bijukchhe&theme=tokyonight" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
