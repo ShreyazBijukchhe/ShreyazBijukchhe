@@ -78,7 +78,7 @@
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Shreyaz-Bijukchhe/Tollgate-System)
 [![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif)](https://github.com/Shreyaz-Bijukchhe/Tollgate-System)
-[![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c)](https://github.com/Shreyaz-Bijukchhe/Tollgate-System)
+
 
 > Real-time vehicle detection and automated toll payment system using ESP32 and ultrasonic sensors.
 
@@ -92,9 +92,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyazbijukchhe427056370)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijukchheshreyaz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyaz-Bijukchhe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyaz-bijukchhe-86abb732b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bijukchheshreyaz@gmail.com)
 
 </div>
 
